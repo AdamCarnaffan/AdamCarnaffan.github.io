@@ -2,7 +2,7 @@
 title: Resume
 subtitle: 
 layout: "page"
-icon: fa-file=alt
+icon: fa-file-alt
 order: 4
 ---
 
