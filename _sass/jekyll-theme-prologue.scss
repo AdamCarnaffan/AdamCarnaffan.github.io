@@ -75,6 +75,7 @@
 
 	input, textarea, select {
 		font-family: 'Source Sans Pro', sans-serif;
+		resize: none;
 		font-size: 19pt;
 		font-weight: 300;
 		line-height: 1.75em;
@@ -726,7 +727,6 @@
 
 			body, input, textarea, select {
 				font-size: 17pt;
-				resize: none;
 			}
 
 		/* Header */
