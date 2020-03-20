@@ -1,10 +1,17 @@
+---
+title: My Resume
+subtitle: a list of books I read
+layout: "page"
+icon: fa-elementor
+order: 4
+---
 # Adam Carnaffan
 
-[AdamCarnaffan.github.io](http://adamcarnaffan.github.io) | adam.carnaffan@mail.utoronto.ca | (647) 518-7749 | Toronto, ON
+[AdamCarnaffan.github.io](http://adamcarnaffan.github.io) | [adam.carnaffan@mail.utoronto.ca](mailto:adam.carnaffan@mail.utoronto.ca) | (647) 518-7749 | Toronto, ON
 
 ---
 
-### Projects
+## Projects
 
 **Praxis III Autonomous Vehicle Charger**
 
@@ -14,7 +21,7 @@ Electrical & Mechanical Design of the robot, as well as *Arduino* actuation cont
 
 *Networking of IoT* devices for live classical jazz-like music performance (*low latency*)
 
-### Skills
+## Skills
 
 **Programming**: C, Python, SQL, Verilog, ARM Assembly, PHP, JavaScript, UNIX
 
@@ -22,7 +29,7 @@ Electrical & Mechanical Design of the robot, as well as *Arduino* actuation cont
 
 **Language**: English (Native), French (DELF B2)
 
-### Experience
+## Experience
 
 Feb. 2020 - Present
 
@@ -48,7 +55,7 @@ Jul. 2018 - Sept. 2018
 
 Thorough testing and test case writing. Accurate reporting and validating of software defects.
 
-### Education
+## Education
 
 Sept. 2018 - Present
 
