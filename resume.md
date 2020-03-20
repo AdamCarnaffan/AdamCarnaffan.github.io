@@ -6,7 +6,7 @@ icon: fa-file-alt
 order: 4
 ---
 
-[AdamCarnaffan.github.io](http://adamcarnaffan.github.io)    •    [adam.carnaffan@mail.utoronto.ca](mailto:adam.carnaffan@mail.utoronto.ca)    •    (647) 518-7749    •    Toronto, ON
+[adam.carnaffan@mail.utoronto.ca](mailto:adam.carnaffan@mail.utoronto.ca)    •    (647) 518-7749    •    Toronto, ON
 
 ### Projects
 
