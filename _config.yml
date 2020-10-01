@@ -30,8 +30,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Adam Carnaffan
-subtitle: Student | Developer
+name: Adam Carnaffan
+title: Student | Developer
 description: >- # this means to ignore newlines until "baseurl:"
   Come take a look at what I've been up to
   and what I have to say! I hope you find
@@ -39,6 +39,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 author: Adam Carnaffan
 email: adam.carnaffan@mail.utoronto.ca
 avatar: assets/images/avatar.jpg
+phone: 647-518-7749
 
 # You'll want to customize url and baseurl for your own site:
 baseurl: "/" # the subpath of your site, e.g. /blog
@@ -59,7 +60,3 @@ dribbble_url:
 
 # Google Analytics Tracking ID goes here:
 google_analytics:
-
-# The following settings are NECESSARY for the Prologue theme to run:
-theme: jekyll-theme-architect
-collections: [sections]
